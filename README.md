@@ -1,7 +1,8 @@
 <h1 align="center">"Hello world",  I'm Stuti Gupta</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-- 🔭 I’m currently working on **real estate price prediction model**
+- 🔭 I’m currently working on **Cricket analaysis**
+- 🔭 I’m currently working on Cp skills 
 
 - 🌱 I’m currently learning **learning R and tableau**
 
