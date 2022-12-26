@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Cp skills 
 
 - 🌱 I’m currently learning **learning R and tableau**
+- I am working on realtime datasets and producing ml models through it
 
 - 📫 How to reach me **19stutigupta@gmail.com**
 
