@@ -1,11 +1,12 @@
 <h1 align="center">"Hello world",  I'm Stuti Gupta</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-
+OPEN TO WORK
 - 🔭 I’m currently working on **Cricket analaysis**
 - 🔭 I’m currently working on Cp skills 
 
 - 🌱 I’m currently learning **learning R and tableau**
 - I am working on realtime datasets and producing ml models through it
+  Currently working as a data analyst intern.
 
 - 📫 How to reach me **19stutigupta@gmail.com**
 
