@@ -4,7 +4,7 @@ OPEN TO WORK
 - 🔭 I’m currently working on **Cricket analaysis**
 - 🔭 I’m currently working on Cp skills 
 
-- 🌱 I’m currently learning **learning R and tableau**
+- 🌱 I’m currently learning **learning SQL and PowerBi**
 - I am working on realtime datasets and producing ml models through it
   Currently working as a data analyst intern.
 
